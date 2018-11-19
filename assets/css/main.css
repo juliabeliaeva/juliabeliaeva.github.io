@@ -178,7 +178,7 @@ a:before {
   transition: color 0.2s ease, text-shadow 0.2s ease;
 }
 a:hover {
-  color: #ff7496;
+  color: #4488bb;
 }
 
 strong, b {
@@ -352,7 +352,7 @@ input[type=email]:focus,
 input[type=tel]:focus,
 select:focus,
 textarea:focus {
-  border-color: #ff7496;
+  border-color: #4488bb;
 }
 
 select {
@@ -436,12 +436,12 @@ input[type=radio] + label:before {
 }
 input[type=checkbox]:checked + label:before,
 input[type=radio]:checked + label:before {
-  color: #ff7496;
+  color: #4488bb;
   content: "";
 }
 input[type=checkbox]:focus + label:before,
 input[type=radio]:focus + label:before {
-  border-color: #ff7496;
+  border-color: #4488bb;
 }
 
 input[type=checkbox] + label:before {
@@ -673,7 +673,7 @@ ul.icons li a:before {
   text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;
 }
 ul.icons li a:hover:before {
-  text-shadow: 1.25px 0px 0px #ff7496, -1.25px 0px 0px #ff7496, 0px 1.25px 0px #ff7496, 0px -1.25px 0px #ff7496;
+  text-shadow: 1.25px 0px 0px #4488bb, -1.25px 0px 0px #4488bb, 0px 1.25px 0px #4488bb, 0px -1.25px 0px #4488bb;
 }
 ul.icons li a:before {
   position: absolute;
@@ -687,7 +687,7 @@ ul.icons li a:before {
   text-indent: 0;
 }
 ul.icons li a:hover {
-  border-color: #ff7496;
+  border-color: #4488bb;
 }
 @media screen and (max-width: 480px) {
   ul.icons li a:before {
@@ -727,8 +727,8 @@ input[type=reset]:hover,
 input[type=button]:hover,
 button:hover,
 .button:hover {
-  border-color: #ff7496;
-  color: #ff7496 !important;
+  border-color: #4488bb;
+  color: #4488bb !important;
 }
 input[type=submit].icon,
 input[type=reset].icon,
