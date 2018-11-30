@@ -48,6 +48,16 @@
 			}
 		}
 
+		#intro {
+			text-transform: none;
+			font-size: 12pt;
+			line-height: 1.5;
+			letter-spacing: _size(letter-spacing-small);
+			margin-bottom: _size(element-wide-margin);
+			margin-left: _size(element-wide-margin);
+			margin-right: _size(element-wide-margin);
+		}
+
 		@include breakpoint('<=xsmall') {
 			@include padding(4em, 2em);
 			width: 100%;
