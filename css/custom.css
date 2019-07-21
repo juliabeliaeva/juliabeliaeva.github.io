@@ -1,0 +1,22 @@
+ .text-paragraph {
+     text-align: justify;
+ }
+
+ .header {
+     text-align: center;
+ }
+
+ .subtitle {
+   margin-top: -2rem;
+ }
+
+ .value-img {
+     display: block;
+     text-align: center;
+     margin: auto auto 2.5rem;
+ }
+
+ .nobull {
+     list-style-type: none;
+     line-height: 1rem;
+ }
